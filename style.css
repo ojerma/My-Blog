@@ -1,0 +1,50 @@
+*img {
+    width: 200px;
+    height: 100px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: rgb(38, 23, 4);
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: rgb(164, 8, 159);
+}
+.Hobby{
+    background-color: cornflowerblue;
+    color: bisque;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.Travelling{
+    background-color: rgb(237, 100, 155);
+    color: rgb(13, 11, 9);
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.Cooking{
+    background-color: rgb(189, 100, 237);
+    color: rgb(32, 47, 144);
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.socmedia{
+    text-align: center;
+    background-color: aquamarine;
+
+    img {
+    width: 100px;
+    height: 100px;
+}
+}
